@@ -64,7 +64,7 @@ TICKER_MAP = {
 
     # ENERGY & COMMODITY LAYERS
     "Royalties": ["FNV", "WPM"],
-    "Uranium & Baseload Energy": ["CCJ", "CNQ", "XOM", "SU", "EQT", "CVX"],
+    "Uranium & Baseload Energy": ["CCJ", "CNQ", "KAP.IL", "XOM", "SU", "EQT", "CVX"],
     "Copper & Industrial Materials": ["FCX", "SCCO", "BHP", "NEM", "COP", "NUE", "PH", "CAT"],
 
     # AI / SEMICONDUCTOR LAYERS
