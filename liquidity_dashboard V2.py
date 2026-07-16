@@ -69,13 +69,13 @@ TICKER_MAP = {
 
     # AI / SEMICONDUCTOR LAYERS
     "Semiconductor Monopolies": ["TSM", "ASML", "SHECY", "6920.T"],
-    "Robotics, Architecture & Automation": ["AVGO", "CDNS", "QCOM", "FANUY", "8035.T", "SNPS", "ABB"],
+    "Robotics, Architecture & Automation": ["AVGO", "CDNS", "QCOM", "FANUY", "8035.T", "SNPS"],
     "AI Softwares & Velocity Applications": ["NOW", "PANW", "STX"],
 
     # EMERGING MARKETS JURISDICTIONS
-    "Emerging Markets: India": ["SIEMENS.NS", "POWERGRID.NS", "PIIND.NS", "SUNPHARMA.NS", "HCLTECH.NS"],
-    "Emerging Markets: GCC": ["ARAMCO.SR", "ADNOCGAS.AE", "ACWAPOWER.SR", "STC.SR"],
-    "Emerging Markets: Other": ["9984.T", "TLK", "INDO", "VALE", "CEO", "CSUAY", "CHL"],
+    "Emerging Markets: India": ["SIEMENS.NS", "POWERGRID.NS", "PIIND.NS", "SUNPHARMA.NS", "HCLTECH.NS", "ABB.NS", "CGPOWER.NS"],
+    "Emerging Markets: GCC": ["2222.SR", "ADNOCGAS.AE", "2082.SR", "7010.SR"],
+    "Emerging Markets: Other": ["9984.T", "TLK", "INDO", "VALE", "0883.HK", "CSUAY", "0941.HK"],
 
     # BUSINESS & FUTURISTIC OVERLAY (HEALTHCARE & LONGEVITY)
     "Healthcare & Longevity": ["NVO", "AZN", "ISRG", "TMO"],
